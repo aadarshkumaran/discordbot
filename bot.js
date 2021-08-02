@@ -14,8 +14,7 @@ client.on('ready', () => {
     })
 
   })
-  //chat channel id : 646740210801180682
-
+ 
 })
 
 client.on('message' , (receivedMessage) =>{
