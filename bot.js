@@ -40,11 +40,4 @@ function processCommand(receivedMessage){
 
 }
 
-client.login("ODY3ODAwNjExMjQ0MzQzMzI2.YPmYTA.ddAYw_U5c6uvRjHKH81KGVCdsm0");
-
-
-///Greenja's server
- // - Text Channels category 869027584791441419
- // - Voice Channels category 869027584791441420
-// - general text id 869027584791441421
- //- General voice 869027584791441422
+client.login("YOUR TOKEN");
